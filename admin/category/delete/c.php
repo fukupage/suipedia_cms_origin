@@ -1,0 +1,1 @@
+<?php include_once(getRoot()."/src/parts/entity_delete.php"); ?>
